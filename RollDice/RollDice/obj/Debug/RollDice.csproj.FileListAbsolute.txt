@@ -1,0 +1,9 @@
+C:\Users\msft_\source\repos\RollDice\RollDice\bin\Debug\RollDice.exe
+C:\Users\msft_\source\repos\RollDice\RollDice\bin\Debug\RollDice.pdb
+C:\Users\msft_\source\repos\RollDice\RollDice\obj\Debug\RollDice.csprojAssemblyReference.cache
+C:\Users\msft_\source\repos\RollDice\RollDice\obj\Debug\RollDice.Form1.resources
+C:\Users\msft_\source\repos\RollDice\RollDice\obj\Debug\RollDice.Properties.Resources.resources
+C:\Users\msft_\source\repos\RollDice\RollDice\obj\Debug\RollDice.csproj.GenerateResource.cache
+C:\Users\msft_\source\repos\RollDice\RollDice\obj\Debug\RollDice.csproj.CoreCompileInputs.cache
+C:\Users\msft_\source\repos\RollDice\RollDice\obj\Debug\RollDice.exe
+C:\Users\msft_\source\repos\RollDice\RollDice\obj\Debug\RollDice.pdb
